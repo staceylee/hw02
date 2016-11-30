@@ -1,0 +1,45 @@
+* {font-family: 微軟正黑體, "Microsoft JhengHei" , "Arial" , "Helvetica" , "sans-serif";
+font-weight: 700px}
+
+.inner{
+   background: #FFFF99;
+}
+
+.ball {
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-weight: 700;
+    font-family: arial;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#ffce00;
+
+}
+.ball2 {
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-weight: 700;
+    font-family: arial;
+    color:#FFF;
+    line-height:50px;
+    text-align:center;
+    background:#e20010;
+
+}
+
+.ball3 {
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background:#FFFF99;
+    
+}
+.result {
+    color: #CC0000;
+    font-weight: bolder;
+}
